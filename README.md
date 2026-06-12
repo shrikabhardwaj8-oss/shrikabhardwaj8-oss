@@ -35,7 +35,7 @@ I'm a first-year B.Tech student at **Lovely Professional University, Punjab**, p
 ## 📫 Let's Connect
 
 - 🔗 LinkedIn: [linkedin.com/in/shrika-bhardwaj](https://linkedin.com/in/shrika-bhardwaj)
-- 📧 Email: your.email@gmail.com
+- 📧 Email: shrikabhardwaj8@gmail.com
 - 📊 Kaggle: [kaggle.com/shrikabhardwaj](https://kaggle.com/shrikabhardwaj)
 
 ---
