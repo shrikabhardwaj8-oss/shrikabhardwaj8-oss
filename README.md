@@ -1,7 +1,7 @@
 <!-- Hi there 👋 -->
 # Hi, I'm Shrika Bhardwaj 👋
 
-I'm a first-year B.Tech student at **Lovely Professional University, Punjab**, pursuing AI & Data Analytics through a work-integrated programme with **Quantify (V-Tech)**.
+I'm a first-year B.Tech student at **Lovely Professional University, Punjab**, pursuing AI & Data Analytics through a work-integrated programme with **Quantify (B-Tech)**.
 
 - 🎯 Currently learning Python through the **Python for Everybody** specialization by University of Michigan
 - 📊 Interested in Data Analytics, Machine Learning, and AI applications
