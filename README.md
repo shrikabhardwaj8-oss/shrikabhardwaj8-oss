@@ -3,10 +3,10 @@
 
 I'm a first-year B.Tech student at **Lovely Professional University, Punjab**, pursuing AI & Data Analytics through a work-integrated programme with **Quantify (B-Tech)**.
 
-- 🎯 Currently learning Python through the **Python for Everybody** specialization by University of Michigan
+- 🎯 Currently learning Python
 - 📊 Interested in Data Analytics, Machine Learning, and AI applications
 - 🌱 Building projects to strengthen my foundations in Python and data science
-- 🎵 Outside of code — I enjoy music, reading, and sports
+- 🎵 Outside of code — I am a public speaker, 
 - 💬 Always open to connecting with fellow learners and developers
 
 ---
