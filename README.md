@@ -1,7 +1,7 @@
 <!-- Hi there 👋 -->
 # Hi, I'm Shrika Bhardwaj 👋
 
-I'm a first-year B.Tech student at **Lovely Professional University, Punjab**, pursuing AI & Data Analytics through a work-integrated programme with **Quantify (B-Tech)**.
+I'm a first-year B.Tech student at **Lovely Professional University, Punjab**, pursuing AI & Data Analytics through a work-integrated programme with **Quantiphi (B-Tech)**.
 
 - 🎯 Currently learning Python
 - 📊 Interested in Data Analytics, Machine Learning, and AI applications
@@ -25,7 +25,7 @@ I'm a first-year B.Tech student at **Lovely Professional University, Punjab**, p
 
 ## 📚 What I'm Working On
 
-- 📖 Completing **Python for Everybody** (Course 2/5 — Python Data Structures)
+- 📖 Completed Coursera Python For Everybody-University of Michigan
 - 💻 Building beginner Python projects and pushing them to GitHub
 - 📈 Preparing for my first data analytics project using real datasets
 - 🤝 Work-integrated learning at Quantify as part of V-Tech programme
@@ -34,9 +34,9 @@ I'm a first-year B.Tech student at **Lovely Professional University, Punjab**, p
 
 ## 📫 Let's Connect
 
-- 🔗 LinkedIn: [linkedin.com/in/shrika-bhardwaj](https://linkedin.com/in/shrika-bhardwaj)
+- 🔗 LinkedIn: [linkedin.com/in/shrika-bhardwaj](https://www.linkedin.com/in/shrika-bhardwaj-2603s/)
 - 📧 Email: shrikabhardwaj8@gmail.com
-- 📊 Kaggle: [kaggle.com/shrikabhardwaj](https://kaggle.com/shrikabhardwaj)
+- 📊 Kaggle: [kaggle.com/shrikabhardwaj](https://www.kaggle.com/shrikabhardwaj)
 
 ---
 *Currently open to project collaborations and internship opportunities*
